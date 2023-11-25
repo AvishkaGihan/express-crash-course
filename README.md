@@ -53,8 +53,3 @@ npm start
 This will start the Express server, and you can access the application by navigating to [http://localhost:3000](http://localhost:3000) in your web browser.
 
 Feel free to explore the code in the `src` directory to understand how the Express.js application is structured and how different features are implemented.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request. Make sure to follow the [Contributing Guidelines](CONTRIBUTING.md).
-
