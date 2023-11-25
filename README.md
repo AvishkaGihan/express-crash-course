@@ -8,8 +8,6 @@ This repository contains the source code for the Express Crash Course. This cras
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
