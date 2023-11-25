@@ -58,6 +58,3 @@ Feel free to explore the code in the `src` directory to understand how the Expre
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request. Make sure to follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
